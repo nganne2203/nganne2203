@@ -126,6 +126,6 @@ A web-based SOS and request management system.
 
 - **Email:** [thanhngan.pt2004@gmail.com](mailto:thanhngan.pt2004@gmail.com)
 - **GitHub:** [github.com/nganne](https://github.com/nganne)
-- **LinkedIn:** [Add LinkedIn profile](https://www.linkedin.com/in/ng%C3%A2n-thanh-754418428?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-<!-- - **Portfolio:** [Add portfolio website](YOUR_PORTFOLIO_URL) -->
+- **LinkedIn:** [Mai Thi Thanh Ngan](https://www.linkedin.com/in/ng%C3%A2n-thanh-754418428?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - **Phone:** Available on request
+<!-- - **Portfolio:** [Add portfolio website](YOUR_PORTFOLIO_URL) -->
