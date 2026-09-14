@@ -106,7 +106,7 @@ A web-based SOS and request management system.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nganne&show_icons=true&hide_border=true&theme=transparent" alt="Mai Thi Thanh Ngan's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nganne2203&show_icons=true&hide_border=true&theme=transparent" alt="Mai Thi Thanh Ngan's GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nganne&layout=compact&hide_border=true&theme=transparent" alt="Most used languages in public repositories" />
 
 </div>
