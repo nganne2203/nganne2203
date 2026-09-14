@@ -73,21 +73,20 @@ A Vietnamese mythology-inspired MMORPG Lite designed to bring Vietnamese mytholo
 
 - **Technologies:** Unity, ReactJS, TypeScript, NestJS, Next.js, MongoDB and Firebase
 - **Key features:** Authentication, character management, inventory, equipment, marketplace, notifications and administrative management
-- **Repository:** Add the public repository URL here
 
 ### Maihongo Japanese Learning Application
 
 A Japanese learning application developed as a real-world software project.
 
-- **Repository:** Add the public repository URL here
-- **Project details:** Add your role, key features and verified technologies here
+- **Technologies:** Flutter, ExpressJS, TypeScript, MongoDB and Firebase
+- **Key features:** Developed Flutter learning flows for flashcards, quizzes, bookmarks, listening, speaking, writing, learning history, and progress tracking.
 
 ### Phone Accessories
 
 A software project focused on phone accessories.
 
-- **Repository:** Add the public repository URL here
-- **Project details:** Add the project scope, your role and verified technologies here
+- **Technologies:** React Native, ExpressJS, TypeScript, MongoDB
+- **Key features:** Built frontend flows for product browsing, cart, checkout, payment result, order tracking, reviews, and admin management.
 
 ### SOS Tăng Nhơn Phú
 
@@ -96,7 +95,6 @@ A web-based SOS and request management system.
 - Contributed to feature development
 - Participated in requirement clarification
 - Supported application testing
-- **Repository:** Add the public repository URL here
 
 ## GitHub Statistics
 
