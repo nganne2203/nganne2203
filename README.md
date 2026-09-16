@@ -8,8 +8,8 @@ Building web applications across frontend and backend, with a growing focus on A
 
 [![GitHub](https://img.shields.io/badge/GitHub-nganne-181717?style=flat-square&logo=github)](https://github.com/nganne)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thanhngan.pt2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([Mai Thi Thanh Ngan](https://www.linkedin.com/in/ng%C3%A2n-thanh-754418428?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Add_Website-000000?style=flat-square&logo=vercel&logoColor=white)]([Mai Thi Thanh Ngan](https://portfolio-nganne2203s-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ng%C3%A2n-thanh-754418428?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Add_Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-nganne2203s-projects.vercel.app/)
 
 </div>
 
